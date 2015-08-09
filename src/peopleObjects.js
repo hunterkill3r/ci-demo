@@ -25,5 +25,5 @@ function createNewPerson(name, age, gender){
 }	
 
 function removePerson(id){
-	//delete peopleObjects[id];
+	delete peopleObjects[id];
 }
