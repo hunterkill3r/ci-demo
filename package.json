@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "karma-cli": "*",
+    "phantomjs": "*",
+    "karma-jasmine": "*",
+    "karma-phantomjs-launcher": "*"
+  }
+}
